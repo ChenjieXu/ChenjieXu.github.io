@@ -1,0 +1,44 @@
+site_name: '许晨杰的个人主页'
+site_description: '一名有理想、会思考、能沟通的项目经理'
+repo_name: 'ChenjieXu/ChenjieXu.github.io'
+repo_url: 'https://github.com/ChenjieXu/ChenjieXu.github.io'
+nav:
+  - index.md
+  - about_me.md
+  - education.md
+  - work.md
+  - skills.md
+#  - models.md
+#  - ... | models/*.md
+theme:
+  name: 'material'
+  feature:
+    tabs: false
+#extra_javascript:
+#  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
+#  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+#  - javascripts/tables.js
+markdown_extensions:
+  - codehilite:
+      linenums: true
+  - admonition
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - mdx_truly_sane_lists
+plugins:
+  - search
+  - awesome-pages
