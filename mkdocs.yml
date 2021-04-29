@@ -1,13 +1,13 @@
 site_name: '许晨杰的个人主页'
-site_description: '一名有理想、会思考、能沟通的项目经理'
+site_description: '一名有理想、会思考、能沟通的工程师'
 repo_name: 'ChenjieXu/ChenjieXu.github.io'
 repo_url: 'https://github.com/ChenjieXu/ChenjieXu.github.io'
 nav:
   - index.md
-  - about_me.md
-  - education.md
-  - work.md
-  - skills.md
+#  - about_me.md
+#  - education.md
+#  - work.md
+#  - skills.md
 #  - models.md
 #  - ... | models/*.md
 theme:
