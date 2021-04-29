@@ -3,11 +3,11 @@ site_description: '一名有理想、会思考、能沟通的工程师'
 repo_name: 'ChenjieXu/ChenjieXu.github.io'
 repo_url: 'https://github.com/ChenjieXu/ChenjieXu.github.io'
 nav:
-  - index.md
-#  - about_me.md
-#  - education.md
-#  - work.md
-#  - skills.md
+  - 概览: index.md
+#  - about_me: about_me.md
+#  - education: education.md
+#  - work: work.md
+#  - skills: skills.md
 #  - models.md
 #  - ... | models/*.md
 theme:
