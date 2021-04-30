@@ -12,6 +12,8 @@ nav:
 #  - ... | models/*.md
 theme:
   name: 'material'
+  logo: images/logo.png
+  favicon: images/favicon.png
   feature:
     tabs: false
 #extra_javascript:
