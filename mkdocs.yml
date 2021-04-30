@@ -12,8 +12,14 @@ nav:
 #  - ... | models/*.md
 theme:
   name: 'material'
+  logo: images/logo.png
+  favicon: images/favicon.png
   feature:
     tabs: false
+extra:
+  social:
+    - icon: 'fontawesome/brands/github'
+      link: 'https://github.com/ChenjieXu'
 #extra_javascript:
 #  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
 #  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
