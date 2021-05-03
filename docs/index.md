@@ -13,7 +13,7 @@ ___
 
 ### **宝信软件**
 
-算法工程师 人工智能研究所 <font size=3>*2019.11-至今*</font>
+算法工程师 人工智能研究所 <span style="float:right;font-style: oblique;">2019.11-至今</span>
 
 面向计算机视觉解决方案的设计和开发，带领团队完成项目和产品，跟踪视觉前沿技术。
 
@@ -29,7 +29,7 @@ ___
 
 ### **百度**
 
-研发工程师 商业质量部 <font size=3>2019.02-2019.09</font>
+研发工程师 商业质量部 <span style="float:right;font-style: oblique;">2019.02-2019.09</span>
 
 负责舆情系统的爬虫开发和舆情数据分析。
 
@@ -43,14 +43,14 @@ ___
 
 ### **爱丁堡大学**
 
-人工智能硕士 <font size=3>*2017.08-2019.01*</font>
+人工智能硕士 <span style="float:right;font-style: oblique;">2017.08-2019.01</span>
 
 - Pass with Merit
 - 雅思 7.5
 
 ### **华东理工大学**
 
-应用物理学士 <font size=3>*2012.09-2017.06*</font>
+应用物理学士 <span style="float:right;font-style: oblique;">2012.09-2017.06</font></span>
 
 - 优秀本科生交流项目：国家公派留学前往美国学习
 - 专业前20%，综合奖学金二等，荣誉学生一等
@@ -82,5 +82,5 @@ ___
 
 ### 个人主页 [![Github Homepage](https://img.shields.io/badge/-Homepage-black?style=flat&logo=GitHub)](https://www.github.com/ChenjieXu/ChenjieXu.github.io)
 
-- 使用Markdown编写
+- 使用Markdown和CSS编写
 - 使用MkDocs编译并部署至GitHub Pages
