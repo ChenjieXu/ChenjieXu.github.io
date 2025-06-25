@@ -5,6 +5,7 @@ repo_url: 'https://github.com/ChenjieXu/ChenjieXu.github.io'
 nav:
   - 主页: index.md
 #  - about_me: about_me.md
+  - 新闻报道: news.md
   - 教育经历: education.md
   - 所获荣誉:  honors.md
   - 发表刊物: publications.md
