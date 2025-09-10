@@ -1,0 +1,71 @@
+title: 许晨杰的个人主页
+#tagline:          一名有理想、会思考、能沟通的工程师
+description: 许晨杰的个人主页，高级研发工程师，AI视觉专家
+url: https://ChenjieXu.github.io
+
+# Owner/author information
+owner:
+  name:           许晨杰
+  avatar:         avatar.jpg
+  bio:            高级研发工程师<br>工业视觉专家
+  email:          cxuscience@hotmail.com       
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:
+  facebook:
+  github: ChenjieXu
+  linkedin: chenjiexu
+  instagram:
+  lastfm:
+  tumblr:
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_verify: "0i5CQdsRXhqe78L8jrTOoizmzke2a9fst6oVr8gcjIM"
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify: "E0F662B97C3ECB19F928AA6F363D4E50"
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: 主页
+    url: /
+  - title: 新闻报道
+    url: /news
+  - title: 教育经历
+    url: /education
+  - title: 所获荣誉
+    url: /honors
+  - title: 发表刊物
+    url: /publications
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
+future: true
+highlighter: true
+markdown: kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   pretty
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+  coderay:
+    coderay_line_numbers:
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+

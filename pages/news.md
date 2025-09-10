@@ -1,0 +1,12 @@
+---
+layout: page
+permalink: /news/index.html
+title: 新闻报道
+---
+##  新闻报道
+**2025-07-04** 宝信钢铁视觉大模型被上海经信委报道[《钢铁行业大模型驱动钢铁制造智能升级|工赋上海·AI+制造》](https://mp.weixin.qq.com/s/tQYbHk1TlHx7mDAxKVwGmw)。  
+**2025-07-02** 宝信软件自主研发的“钢铁大模型”核心技术及应用方案（工业“智造”：通专融合垂类大模型创新构建与应用）成功入选2025世界人工智能大会最新公布的SAIL奖（卓越人工智能引领者奖）TOP30榜单。[[链接](https://mp.weixin.qq.com/s/Qs-kCUn8c6LnUvNo1xh4dg)]  
+**2025-05-12** 宝信钢铁行业大模型在解放日报头版头条[《“AI+钢铁”，宝武引领智能化升级》](https://mp.weixin.qq.com/s/AbYlobL5o4o2ZggHfFBQLg)中被报道。  
+**2024-10-23** 我参与研发的宝武钢铁行业大模型发布[[链接](https://mp.weixin.qq.com/s/jgm0XkWHsnGM0zzhX-tX7Q)]，被多家媒体[澎湃新闻](https://www.thepaper.cn/newsDetail_forward_29125055)、[经济日报](http://www.ce.cn/xwzx/gnsz/gdxw/202410/24/t20241024_39180237.shtml)、[新华财经](https://www.cnfin.com/dz-lb/detail/20241023/4124973_1.html)、[经济参考报](http://jjckb.xinhuanet.com/20241028/71a41f65a90d479788030555ce9d7ae5/c.html)、[新浪财经](https://finance.sina.com.cn/roll/2024-10-23/doc-inctqhfq0440638.shtml)、[同花顺财经](https://stock.10jqka.com.cn/20241024/c662739907.shtml)、[海通国际证券](https://data.eastmoney.com/report/info/AP202506221695545058.html)报道。在其中我负责子项钢铁视觉大模型。  
+**2024-01-22** 我作为第一作者申请的专利被金融界转载报道：[《上海宝信软件申请基于机器视觉的转炉出钢自动抬炉摇炉专利，提高炼钢效率》](https://www.163.com/dy/article/JMGTHQ0S0519QIKK.html)  
+**2023-05-24** 我研发的大包开浇视觉检测模型在中国宝武公众号[《宝信软件人工智能赋能宝武“钢铁工业大脑”》](https://mp.weixin.qq.com/s/GAiOt3bjMl23jMTRgIKLsg)、信达证券研报[《多个AI模型亮相，宝联登4.0问世，世界一流大央企蓄势待发》](https://data.eastmoney.com/report/info/AP202306081590564120.html)报道。
