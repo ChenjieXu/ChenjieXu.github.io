@@ -23,7 +23,7 @@ title: 所获荣誉
 </tr>
 <tr>
 <td>2025</td>
-<td>2025 宝信软件“创立方·Baosight IDEA”青年创新创效大赛</td>
+<td>2025 宝信软件“创立方·Baosight IDEA”青年创新创效大赛一等奖</td>
 <td>上海宝信软件股份有限公司</td>
 </tr>
 <tr>
