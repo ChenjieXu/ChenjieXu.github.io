@@ -6,7 +6,7 @@
 
 **2026-01-20** 中国金属学会发布[《宝联登钢铁行业大模型建设与应用实践》](https://www.csm.org.cn/col/col6317/art/2026/art_2678c150d0734ff4a7e40a3d54e60d78.html)，介绍钢铁行业大模型的技术体系与应用成果，其中包括钢铁视觉模型的“基础—行业—场景”三级架构，以及自监督学习、知识蒸馏和轻量化部署等技术。
 
-**2025-07-26** 我作为视觉大模型负责人参与的宝联登钢铁行业大模型项目——“工业‘智造’：通专融合垂类大模型创新构建与应用”，荣获2025世界人工智能大会最高奖项 **SAIL奖（卓越人工智能引领者奖）**，获[人民网](https://sh.people.com.cn/n2/2025/0728/c134768-41305025.html)、[新华财经](https://www.cnfin.com/gs-lb/detail/20250727/4275659_1.html)、[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_31248306)、[解放日报](https://www.jfdaily.com/journal/getMobileArticle.htm?id=450489)、[新民晚报](https://paper.xinmin.cn/html/xmwb/2025-07-27/4/216985.html)等媒体报道。
+**2025-07-26** 我作为视觉大模型负责人参与研发的宝联登钢铁行业大模型成果，以“工业‘智造’：通专融合垂类大模型创新构建与应用”为申报名称，荣获2025世界人工智能大会最高奖项 **SAIL奖（卓越人工智能引领者奖）**，获[人民网](https://sh.people.com.cn/n2/2025/0728/c134768-41305025.html)、[新华财经](https://www.cnfin.com/gs-lb/detail/20250727/4275659_1.html)、[澎湃新闻](https://m.thepaper.cn/newsDetail_forward_31248306)、[解放日报](https://www.jfdaily.com/journal/getMobileArticle.htm?id=450489)、[新民晚报](https://paper.xinmin.cn/html/xmwb/2025-07-27/4/216985.html)等媒体报道。
 
 **2025-07-04** 宝信钢铁视觉大模型获上海经信委[《钢铁行业大模型驱动钢铁制造智能升级｜工赋上海·AI+制造》](https://mp.weixin.qq.com/s/tQYbHk1TlHx7mDAxKVwGmw)报道，介绍其在钢铁表面检测和工业安防等场景中的应用。[[网页链接](https://www.sh-italent.com/Article/202507/202507070006.shtml)]
 
