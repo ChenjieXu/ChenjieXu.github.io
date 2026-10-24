@@ -2,16 +2,17 @@
 
 ## 专利
 [1]**许晨杰**,等.工业模型平台化实现方法和系统[P].上海市:CN115708114A,2023-02-21.<span style="color:red;"><strong>（已授权）</strong></span>  
-[2]**许晨杰**,等.适用于钢板的表面缺陷检测系统和方法、设备、介质[P].上海市:CN115880209A,2023-03-31.  
-[3]**许晨杰**,等.基于机器视觉的带钢焊接对中的控制方法和系统及设备[P].上海市:CN116021193A,2023-04-28.<span style="color:red;"><strong>（已授权）</strong></span>  
-[4]**许晨杰**,等.基于机器视觉的圆盘剪卡钢和跑偏检测方法和系统及设备[P].上海市:CN116105595A,2023-05-12.  
-[5]沈春锋,**许晨杰**,等.基于人工智能中台和边缘的云边协同系统及方法[P].上海市:CN118869686A,2024-10-29.  
-[6]周建帮,张洋,鲁家欢,**许晨杰**,等.基于深度学习的渣量检测方法及系统[P].上海市:CN118864348A,2024-10-29.  
-[7]**许晨杰**,等.基于机器视觉的转炉出钢自动抬炉摇炉方法、系统及介质[P].上海市:CN119273620A,2025-01-07.    
-[8]**许晨杰**.基于深度学习的高炉出渣识别方法、系统、介质及设备[P].上海市:CN120236224A,2025-07-01.    
-[9]**许晨杰**,等.基于智能视觉检测的连铸自动开浇方法及系统[P].上海市:CN120790871A,2025.10.17.   
+[2]**许晨杰**,等.基于机器视觉的带钢焊接对中的控制方法和系统及设备[P].上海市:CN116021193A,2023-04-28.<span style="color:red;"><strong>（已授权）</strong></span>  
+[3]沈春锋,**许晨杰**,等.基于人工智能中台和边缘的云边协同系统及方法[P].上海市:CN118869686A,2024-10-29.  
+[4]周建帮,张洋,鲁家欢,**许晨杰**,等.基于深度学习的渣量检测方法及系统[P].上海市:CN118864348A,2024-10-29.  
+[5]**许晨杰**,等.基于机器视觉的转炉出钢自动抬炉摇炉方法、系统及介质[P].上海市:CN119273620A,2025-01-07.    
+[6]**许晨杰**.基于深度学习的高炉出渣识别方法、系统、介质及设备[P].上海市:CN120236224A,2025-07-01.    
+[7]**许晨杰**,等.基于智能视觉检测的连铸自动开浇方法及系统[P].上海市:CN120790871A,2025.10.17.   
+[8]郑东源,鲁家欢,**许晨杰**,等.面向移动机械臂作业安全的监控与实时告警方法及系统[P].上海市:CN122265908A,2026-06-23.<br>
+[9]鲁家欢,**许晨杰**,等.基于机器视觉的热轧带钢浪形实时检测方法及系统[P].上海市:CN122714307A,2026-09-08.<br>
 
 ## 论文
 [1]**许晨杰**,等.基于计算机视觉的钢铁行业车牌识别算法[J].信息技术与标准化,2022,(11):68-72.  
 [2]支文瑜,沈春锋,**许晨杰**.基于云边协同的钢板表面缺陷检测研究与应用[J].信息技术与标准化,2023,(04):89-92.  
-[3]**C. Xu**, Y. Pan, B. Hu, Y. Zhang, Y. Hong and Y. Yang, "Enhancing Chest X-ray Diagnostics with Neighbor-assisted Multimodal Integration," 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Lisbon, Portugal, 2024, pp. 3872-3876, doi: 10.1109/BIBM62325.2024.10822479.<span style="color:red;"><strong>（CCF-B会议）</strong></span>
+[3]**C. Xu**, Y. Pan, B. Hu, Y. Zhang, Y. Hong and Y. Yang, "Enhancing Chest X-ray Diagnostics with Neighbor-assisted Multimodal Integration," 2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Lisbon, Portugal, 2024, pp. 3872-3876, doi: 10.1109/BIBM62325.2024.10822479.<span style="color:red;"><strong>（CCF-B会议）</strong></span><br>
+[4]Yitong Chen, Lingchen Meng, Wujian Peng, Jun Tao, **Chenjie Xu**, Zuxuan Wu and Yu-Gang Jiang, "Enhancing Vision Foundation Models via Multimodal Continual Pre-Training," World Artificial Intelligence Conference Academic (WAICA), Shanghai, China, 2026. [[会议录用名单](https://waica2026.worldaic.com.cn/program/accepted-paper-list-main-conference/)]<span style="color:red;"><strong>（WAICA 2026 最佳学生论文奖）</strong></span> [[获奖名单](https://waica2026.worldaic.com.cn/awards/)]
