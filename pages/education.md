@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: zh
 permalink: /education/index.html
 title: 教育经历
 ---

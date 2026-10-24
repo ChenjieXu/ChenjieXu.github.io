@@ -29,14 +29,19 @@ bing_verify: "E0F662B97C3ECB19F928AA6F363D4E50"
 # For external links add external: true
 links:
   - title: 主页
+    title_en: Home
     url: /
   - title: 新闻报道
+    title_en: News
     url: /news
   - title: 教育经历
+    title_en: Education
     url: /education
   - title: 所获荣誉
+    title_en: Honors
     url: /honors
   - title: 发表刊物
+    title_en: Publications
     url: /publications
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones

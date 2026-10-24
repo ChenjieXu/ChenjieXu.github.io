@@ -1,15 +1,28 @@
+{% assign lang = page.lang | default: 'zh' %}
+{% assign ui = site.data.locales[lang] %}
+{% assign page_path = page.url | remove: 'index.html' %}
+{% if lang == 'en' %}
+  {% assign alternate_path = page_path | remove_first: '/en' %}
+  {% assign alternate_lang = 'zh' %}
+{% else %}
+  {% assign alternate_path = '/en' | append: page_path %}
+  {% assign alternate_lang = 'en' %}
+{% endif %}
 <div class="navigation-wrapper">
 	<div class="site-name">
-		<a href="{{ site.url }}">{{ site.title }}</a>
+		<a href="{{ site.url }}{% if lang == 'en' %}/en/{% else %}/{% endif %}">{{ ui.site_title }}</a>
 	</div><!-- /.site-name -->
   {% assign current_url = page.url | remove: 'index.html' | append: '/' | replace: '//', '/' %}
 	<div class="top-navigation">
-		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<nav role="navigation" aria-label="{{ ui.navigation_label }}" itemscope itemtype="http://schema.org/SiteNavigationElement">
 		    <ul>
 		        {% for link in site.links %}
-            {% assign link_url = link.url | append: '/' | replace: '//', '/' %}
-            <li><a href="{{ site.url }}{{ link.url }}" {% if current_url == link_url %}class="top-navigation-current" aria-current="page"{% endif %}>{{ link.title }}</a></li>
+            {% assign link_path = link.url %}
+            {% if lang == 'en' %}{% assign link_path = '/en' | append: link_path %}{% endif %}
+            {% assign link_url = link_path | append: '/' | replace: '//', '/' %}
+            <li><a href="{{ site.url }}{{ link_url }}" {% if current_url == link_url %}class="top-navigation-current" aria-current="page"{% endif %}>{% if lang == 'en' %}{{ link.title_en }}{% else %}{{ link.title }}{% endif %}</a></li>
 		        {% endfor %}
+            <li class="language-switch"><a href="{{ site.url }}{{ alternate_path }}" lang="{{ alternate_lang }}" hreflang="{{ alternate_lang }}" aria-label="{{ ui.switch_label }}">{{ ui.switch_text }}</a></li>
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->

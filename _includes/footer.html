@@ -1,7 +1,9 @@
-<h6>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.
-  Published with <a href="http://pages.github.com/" rel="nofollow">GitHub Pages</a>,
-  powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a>,
-  based on the <a href="http://mademistakes.com/" rel="nofollow">Minimal Mistakes</a> theme,
-  and <a href="http://yangy09.github.io" rel="nofollow">Yang Yang's personal site.</a>
-  Source code for this website can be found <a href="https://github.com/chenjiexu/chenjiexu.github.io" rel="nofollow">here</a>.
+{% assign lang = page.lang | default: 'zh' %}
+{% assign ui = site.data.locales[lang] %}
+<h6>&copy; {{ site.time | date: '%Y' }} {{ ui.name }}.
+  {{ ui.published }} <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a>,
+  {{ ui.powered }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,
+  {{ ui.based }} <a href="https://mademistakes.com/" rel="nofollow">Minimal Mistakes</a>,
+  {{ ui.and }} <a href="https://yangy09.github.io" rel="nofollow">Yang Yang</a>.
+  <a href="https://github.com/chenjiexu/chenjiexu.github.io" rel="nofollow">{{ ui.source }}</a>.
 </h6>

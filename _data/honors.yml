@@ -1,0 +1,169 @@
+---
+company:
+- date: '2025.12'
+  title:
+    zh: 中国宝武优秀岗位创新成果奖一等奖
+    en: First Prize, China Baowu Outstanding Workplace Innovation Achievement Award
+  issuer:
+    zh: 中国宝武钢铁集团有限公司
+    en: China Baowu
+  role: lead
+- date: '2025'
+  title:
+    zh: 2025 宝信软件“创立方·Baosight IDEA”青年创新创效大赛一等奖
+    en: First Prize, 2025 Baosight IDEA Youth Innovation and Value Creation Competition
+  issuer:
+    zh: 上海宝信软件股份有限公司
+    en: Shanghai Baosight Software Co., Ltd.
+  role: lead
+- date: '2025.1'
+  title:
+    zh: 2024年度宝信软件"AI技术与应用"开发者挑战赛-三等奖
+    en: Third Prize, 2024 Baosight AI Technology and Applications Developer Challenge
+  issuer:
+    zh: 上海宝信软件股份有限公司
+    en: Shanghai Baosight Software Co., Ltd.
+  role: lead
+- date: '2025.1'
+  title:
+    zh: 2024年度创新先锋奖
+    en: 2024 Innovation Pioneer Award
+  issuer:
+    zh: 上海宝信软件股份有限公司
+    en: Shanghai Baosight Software Co., Ltd.
+  role: individual
+- date: '2025.1'
+  title:
+    zh: 2024年度宝信软件"杰出团队"称号
+    en: 2024 Baosight Outstanding Team
+  issuer:
+    zh: 上海宝信软件股份有限公司
+    en: Shanghai Baosight Software Co., Ltd.
+  role: member
+- date: '2024'
+  title:
+    zh: 中国宝武优秀岗位创新成果奖三等奖
+    en: Third Prize, China Baowu Outstanding Workplace Innovation Achievement Award
+  issuer:
+    zh: 中国宝武钢铁集团有限公司
+    en: China Baowu
+  role: member
+- date: '2024'
+  title:
+    zh: 中国宝武优秀青年
+    en: China Baowu Outstanding Youth
+  issuer:
+    zh: 中国宝武钢铁集团有限公司
+    en: China Baowu
+  role: individual
+- date: '2024.11'
+  title:
+    zh: 第四届宝信软件"青年先锋示范岗"称号
+    en: 4th Baosight Youth Pioneer Demonstration Post
+  issuer:
+    zh: 共青团上海宝信软件股份有限公司委员会
+    en: CYL Committee of Shanghai Baosight Software
+  role: member
+- date: '2024.11'
+  title:
+    zh: 第四届宝信软件"青年之星"称号
+    en: 4th Baosight Youth Star
+  issuer:
+    zh: 共青团上海宝信软件股份有限公司委员会
+    en: CYL Committee of Shanghai Baosight Software
+  role: individual
+- date: '2024.9'
+  title:
+    zh: '"中央企业先进集体"称号'
+    en: Advanced Collective of Central State-Owned Enterprises
+  issuer:
+    zh: 中华人民共和国人力资源和社会保障部、国务院国有资产监督管理委员会
+    en: Ministry of Human Resources and Social Security; SASAC
+  role: member
+- date: '2024.4'
+  title:
+    zh: 中国宝武青年岗位能手荣誉称号
+    en: China Baowu Young Skilled Professional
+  issuer:
+    zh: 共青团中国宝武钢铁集团有限公司委员会
+    en: CYL Committee of China Baowu
+  role: individual
+- date: '2024.1'
+  title:
+    zh: 宝信软件2023年度优秀科技创新成果奖三等奖
+    en: Third Prize, 2023 Baosight Outstanding Scientific and Technological Innovation
+      Achievement Award
+  issuer:
+    zh: 上海宝信软件股份有限公司
+    en: Shanghai Baosight Software Co., Ltd.
+  role: lead
+competition:
+- date: '2025.11'
+  title:
+    zh: 2025科大讯飞开发者大赛-基于特定点初始化的单目标跟踪挑战赛
+    en: 2025 iFLYTEK AI Developer Competition — Point-Initialized Single-Object Tracking
+      Challenge
+  issuer:
+    zh: 科大讯飞股份有限公司
+    en: iFLYTEK Co., Ltd.
+  role: lead
+  level:
+    zh: 第一名
+    en: 1st Place
+- date: '2025.11'
+  title:
+    zh: 2025科大讯飞开发者大赛-监控视角下散养鸡场景的单图像超分辨率挑战赛
+    en: 2025 iFLYTEK AI Developer Competition — Single-Image Super-Resolution for
+      Free-Range Chicken Farm Surveillance
+  issuer:
+    zh: 科大讯飞股份有限公司
+    en: iFLYTEK Co., Ltd.
+  role: lead
+  level:
+    zh: 第三名
+    en: 3rd Place
+- date: '2024.11'
+  title:
+    zh: 2024"智衡屋"AI挑战赛
+    en: 2024 Zhihengwu AI Challenge
+  issuer:
+    zh: 北京航天计量测试技术研究所
+    en: Beijing Institute of Aerospace Metrology and Testing Technology
+  role: individual
+  level:
+    zh: 优秀奖
+    en: Excellence Award
+- date: '2023.11'
+  title:
+    zh: 第二届"移动云杯"算力网络应用创新大赛行业赛道
+    en: 2nd Mobile Cloud Cup Computing Network Application Innovation Competition
+      — Industry Track
+  issuer:
+    zh: 中国移动通信集团有限公司
+    en: China Mobile
+  role: lead
+  level:
+    zh: 三等奖 （8/588）
+    en: Third Prize (8/588)
+- date: '2022.10'
+  title:
+    zh: Kaggle JPX Tokyo Stock Exchange Prediction
+    en: Kaggle JPX Tokyo Stock Exchange Prediction
+  issuer:
+    zh: Japan Exchange Group
+    en: Japan Exchange Group
+  role: individual
+  level:
+    zh: 银牌 （89/2033）
+    en: Silver Medal (89/2033)
+- date: '2022.10'
+  title:
+    zh: Kaggle RSNA 2022 Cervical Spine Fracture Detection
+    en: Kaggle RSNA 2022 Cervical Spine Fracture Detection
+  issuer:
+    zh: Radiological Society of North America
+    en: Radiological Society of North America
+  role: lead
+  level:
+    zh: 铜牌 （95/883）
+    en: Bronze Medal (95/883)

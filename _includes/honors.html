@@ -1,0 +1,25 @@
+{% assign lang = page.lang | default: 'zh' %}
+{% assign ui = site.data.locales[lang] %}
+<h2>{{ ui.company_honors }}</h2>
+<div class="table-container">
+<table>
+<thead><tr><th>{{ ui.date }}</th><th>{{ ui.honor }}</th><th>{{ ui.issuer }}</th><th>{{ ui.role }}</th></tr></thead>
+<tbody>
+{% for honor in site.data.honors.company %}
+<tr><td>{{ honor.date }}</td><td>{{ honor.title[lang] | escape }}</td><td>{{ honor.issuer[lang] | escape }}</td><td>{{ ui.roles[honor.role] }}</td></tr>
+{% endfor %}
+</tbody>
+</table>
+</div>
+
+<h2>{{ ui.competitions }}</h2>
+<div class="table-container">
+<table>
+<thead><tr><th>{{ ui.date }}</th><th>{{ ui.honor }}</th><th>{{ ui.level }}</th><th>{{ ui.issuer }}</th><th>{{ ui.role }}</th></tr></thead>
+<tbody>
+{% for honor in site.data.honors.competition %}
+<tr><td>{{ honor.date }}</td><td>{{ honor.title[lang] | escape }}</td><td>{{ honor.level[lang] | escape }}</td><td>{{ honor.issuer[lang] | escape }}</td><td>{{ ui.roles[honor.role] }}</td></tr>
+{% endfor %}
+</tbody>
+</table>
+</div>

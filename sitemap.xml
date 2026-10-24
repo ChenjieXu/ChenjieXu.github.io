@@ -33,6 +33,36 @@ layout: nil
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
     </url>
+    <url>
+      <loc>https://ChenjieXu.github.io/en/</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+    <url>
+      <loc>https://ChenjieXu.github.io/en/news/</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+    <url>
+      <loc>https://ChenjieXu.github.io/en/education/</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+    <url>
+      <loc>https://ChenjieXu.github.io/en/honors/</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+    <url>
+      <loc>https://ChenjieXu.github.io/en/publications/</loc>
+      <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
     {% comment %}
     {% for post in site.posts %}
     <url>

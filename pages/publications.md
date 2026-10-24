@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: zh
 permalink: /publications/index.html
 title: 发表刊物
 ---

@@ -1,5 +1,6 @@
 ---
 layout: page
+lang: zh
 permalink: /news/index.html
 title: 新闻报道
 ---

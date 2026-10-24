@@ -1,0 +1,52 @@
+zh:
+  site_title: 许晨杰的个人主页
+  name: 许晨杰
+  bio: 高级研发工程师<br>工业视觉专家
+  description: 许晨杰的个人主页，高级研发工程师，工业视觉与异常检测
+  photo_alt: 许晨杰的头像
+  locale: zh_CN
+  switch_text: EN
+  switch_label: 切换到英文
+  navigation_label: 主导航
+  company_honors: 公司荣誉
+  competitions: 竞赛奖项
+  date: 时间
+  honor: 奖项名称
+  level: 奖项等级
+  issuer: 颁奖单位
+  role: 担任角色
+  roles:
+    lead: 团队负责人
+    individual: 个人获奖
+    member: 团队成员
+  published: 发布于
+  powered: 由
+  based: 主题基于
+  and: 及
+  source: 网站源码
+en:
+  site_title: Chenjie Xu
+  name: Chenjie Xu
+  bio: Senior R&D Engineer<br>Industrial Computer Vision
+  description: Chenjie Xu — industrial computer vision, anomaly detection, research and open source.
+  photo_alt: Profile photo of Chenjie Xu
+  locale: en_US
+  switch_text: 中文
+  switch_label: Switch to Chinese
+  navigation_label: Main navigation
+  company_honors: Company Honors
+  competitions: Competition Awards
+  date: Date
+  honor: Award
+  level: Result
+  issuer: Awarding Organization
+  role: Role
+  roles:
+    lead: Team Lead
+    individual: Individual Award
+    member: Team Member
+  published: Published with
+  powered: powered by
+  based: based on
+  and: and
+  source: Website source

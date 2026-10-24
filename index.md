@@ -1,5 +1,7 @@
 ---
 layout: page
+lang: zh
+title: 主页
 ---
 
 # 主页
