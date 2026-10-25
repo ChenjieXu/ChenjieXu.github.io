@@ -23,7 +23,6 @@
             <li><a href="{{ site.url }}{{ link_url }}" {% if current_url == link_url %}class="top-navigation-current" aria-current="page"{% endif %}>{% if lang == 'en' %}{{ link.title_en }}{% else %}{{ link.title }}{% endif %}</a></li>
 		        {% endfor %}
             <li class="language-switch"><a href="{{ site.url }}{{ alternate_path }}" lang="{{ alternate_lang }}" hreflang="{{ alternate_lang }}" aria-label="{{ ui.switch_label }}">{{ ui.switch_text }}</a></li>
-            <li class="site-switch"><a href="https://xuchenjie.xiaolaohu.space/" aria-label="{{ ui.new_site_label }}">{{ ui.new_site_text }} <span aria-hidden="true">↗</span></a></li>
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
