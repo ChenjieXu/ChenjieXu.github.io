@@ -8,6 +8,8 @@ zh:
   switch_text: EN
   switch_label: 切换到英文
   navigation_label: 主导航
+  new_site_text: 新版主页
+  new_site_label: 切换到新版个人网站
   company_honors: 公司荣誉
   competitions: 竞赛奖项
   date: 时间
@@ -34,6 +36,8 @@ en:
   switch_text: 中文
   switch_label: Switch to Chinese
   navigation_label: Main navigation
+  new_site_text: New website
+  new_site_label: Switch to the new personal website
   company_honors: Company Honors
   competitions: Competition Awards
   date: Date
